@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [1 直线运动的描述](1_zhi_xian_yun_dong_de_miao_shu.md)
-* 2 匀变速直线运动
+* [2 匀变速直线运动](2_yun_bian_su_zhi_xian_yun_dong.md)
 * 3 相互作用
 * 牛顿运动定律
 * 5 曲线运动
