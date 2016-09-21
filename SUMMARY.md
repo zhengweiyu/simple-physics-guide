@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [前言](README.md)
 * [1 描述直线运动的物理量](1_zhi_xian_yun_dong_de_miao_shu.md)
 * [2 匀变速直线运动](2_yun_bian_su_zhi_xian_yun_dong.md)
 * [3 相互作用](3_xiang_hu_zuo_yong.md)
