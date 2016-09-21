@@ -7,8 +7,8 @@
 * [4 牛顿运动定律](4_niu_dun_yun_dong_ding_lv.md)
 * 5 曲线运动
 * [6 万有引力](6_wan_you_yin_li.md)
-* [7 功和能](7_gong_he_neng.md)
-* 8 电场
+* 7 功和能
+* [8 电场](8_dian_chang.md)
 * 9 恒定电流
 * 10 磁场
 * 11 电磁感应
