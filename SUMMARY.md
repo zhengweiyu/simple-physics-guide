@@ -14,6 +14,4 @@
 * [11 电磁感应](11_dian_ci_gan_ying.md)
 * [12 交流电](12_jiao_liu_dian.md)
 * [13 动量](13_dong_liang.md)
-* [附录1 力学实验](fu_lu_1_li_xue_shi_yan.md)
-* [附录2 电学实验](fu_lu_2_dian_xue_shi_yan.md)
 
