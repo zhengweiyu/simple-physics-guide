@@ -5,8 +5,8 @@
 * 2 匀变速直线运动
 * [3 相互作用](3_xiang_hu_zuo_yong.md)
 * [4 牛顿运动定律](4_niu_dun_yun_dong_ding_lv.md)
-* [5 曲线运动](5_qu_xian_yun_dong.md)
-* 6 万有引力
+* 5 曲线运动
+* [6 万有引力](6_wan_you_yin_li.md)
 * 7 功和能
 * 8 电场
 * 9 恒定电流
