@@ -17,4 +17,5 @@
 * [14 原子物理](14_yuan_zi_wu_li.md)
 * [15 力学实验](15_li_xue_shi_yan.md)
 * [16 电学实验](16_dian_xue_shi_yan.md)
+* [17 物理模型专题](17_wu_li_mo_xing_zhuan_ti.md)
 
